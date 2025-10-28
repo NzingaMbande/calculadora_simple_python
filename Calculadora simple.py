@@ -29,6 +29,8 @@ def main():
     print(f"Multiplicación: {multi(x,y)}")
     print(f"División: {div(x,y)}")
     print("Esto es un cambio para hacer un pull")
+    print("Nueva línea para probar la función pull")
+    
     
     if __name__ == "__main__":
         main()
